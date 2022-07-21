@@ -52,3 +52,13 @@ I believe that increasing adoption and education of their service will drastical
 Technologies that this service would utilize is a developer platform and an educational tool. The devloper platform, that allows everday uses to utilize the financial services they provide. An educational tool to increase awarness and adoption for the network.
 * Why are these technologies appropriate for your solution?
 These technologies are essential to my solution since their would be no other way to deploy the solutions. You would need to create a app or platform, which is a new piece of tech in its own. And a educational tool that actually works.
+
+
+## Addendum
+https://www.coinbase.com/price/polygon
+https://polygon.technology
+https://docs.polygon.technology/docs/home/new-to-polygon/
+https://cryptorank.io/price/matic-network/holders
+https://www.benzinga.com/money/is-polygon-matic-a-good-investment
+https://coinmarketcap.com/currencies/polygon/
+https://www.nextbigbrand.in/success-story-of-polygon-indias-blockchain-scalability-platform/
